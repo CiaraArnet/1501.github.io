@@ -2,7 +2,23 @@
    padding-left: 11em;
    font-family: Segoe UI;
            color:#000000;
-    background-color: #FFCC00 }
+    background-color: #FFD21F }
+	h1 {
+    font-family:Segoe UI;
+	color: #6d9dc5;
+	}
+	h2 {
+    font-family:Segoe UI;
+	color: #CE272A;
+	}
+	h3 {
+    font-family:Segoe UI;
+	color: #CE272A;
+	}
+	h4 {
+    font-family:Segoe UI;
+	color: #6d9dc5;
+	}
 	 ul.navbar {
     list-style-type: none;
     padding: 0;
@@ -13,7 +29,7 @@
     width: 10em }
 	h1 {
     font-family:Segoe UI;
-	color: 6d9dc5;
+	color: #6d9dc5;
 	}
 		ul.navbar li {
     background: white;
